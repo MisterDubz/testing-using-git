@@ -1,2 +1,2 @@
 # testing-using-git
-This is first sentence
+This is the first sentence
